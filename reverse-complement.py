@@ -20,7 +20,7 @@ USAGE
     
     example
     
-    % python reverse-complement -i
+    % python reverse-complement.py -i sequence.txt
 
 '''
 
